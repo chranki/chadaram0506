@@ -12,7 +12,7 @@ import java.util.Scanner;
 import com.cardinal.model.CheckoutTools;
 import com.cardinal.model.ToolCharge;
 import com.cardinal.model.Tools;
-
+  
 
 public class CheckoutService {
 

@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 public class CheckoutTools {
-
+ 
 	public String toolCode;
 	public String toolType;
 	public String toolbrand;

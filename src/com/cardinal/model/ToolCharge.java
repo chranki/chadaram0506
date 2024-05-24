@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 
 @Data
 @NoArgsConstructor
-public class ToolCharge{// extends Tools {
+public class ToolCharge{
 	
     public String toolType;
 	public BigDecimal dailyCharge;
